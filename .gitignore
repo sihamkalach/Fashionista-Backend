@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/Lib
+/Scripts
+pyvenv.cfg
+/ecommerce/static
+# this file content sensitive data should not be shared 
+/ecommerce/.env
